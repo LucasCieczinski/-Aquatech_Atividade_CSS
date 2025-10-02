@@ -131,9 +131,6 @@ font-size: 25px;
 
 .footer{
     background-color: #32b9cd;
-    position: absolute;
-    bottom: 0;
-    width: 100%;
 }
 
 .footer .container{
