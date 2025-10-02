@@ -1,2 +1,1 @@
-# -Aquatech_Parte1-Index-
-Repositorio destinado a atividade desenvolvida em sala, estilização da pagina inicial do site.
+# Aquatech_Parte-2_-Login-e-Cadastro-
